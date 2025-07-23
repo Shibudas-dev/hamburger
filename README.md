@@ -40,7 +40,7 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 
 ## 🖼️ Preview
 
-> ![Screenshot](preview.png)
+> ![Screenshot](previews.png)
 
 
 ## 🚀 How to Use
