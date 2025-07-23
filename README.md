@@ -40,16 +40,15 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 
 ## 🖼️ Preview
 
-> ![Screenshot](./Screenshot%202025-07-23%20200457.png)
+> ![Screenshot](preview.png)
 
----
 
 ## 🚀 How to Use
 
 1. Clone the repository:
-   ```bash
-  
-````
+   ``bash
+  git clone https://github.com/Shibudas-dev/hamburger
+``
 
 2. Open `index.html` in your browser.
 3. Done! You can now view the landing page.
@@ -59,7 +58,6 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 I’m a **3rd semester Diploma CSE student** currently learning web development step by step.
 This is my third HTML-only project as part of my **developer journey**, with the goal of becoming a skilled **Front-End Developer** and working in **Japan 🇯🇵** one day.
 
----
 
 ## 🔗 Connect with Me
 
