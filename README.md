@@ -1,7 +1,4 @@
-```markdown
-# 🍔 Burger Website - HTML Landing Page
-
-![Project Screenshot](preview.png)
+# 🍔 hamBurger Website - HTML Landing Page
 
 ## 📌 About the Project
 
@@ -28,11 +25,10 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 - Adding images and aligning text properly  
 - Clean, readable HTML code with consistent indentation
 
----
 
 ## 🗂️ Project Structure
 
-```
+
 
 📁 Burger Website Project
 ├── index.html          # Main HTML file
@@ -40,9 +36,7 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 ├── images/             # Folder for burger images
 └── README.md           # This file
 
-````
 
----
 
 ## 🖼️ Preview
 
@@ -59,8 +53,6 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 
 2. Open `index.html` in your browser.
 3. Done! You can now view the landing page.
-
----
 
 ## 🙋‍♂️ About Me
 
