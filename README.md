@@ -26,18 +26,6 @@ It is my **Day 3 project** of the **#100DaysOfCode** challenge. I'm currently le
 - Clean, readable HTML code with consistent indentation
 
 
-## 🗂️ Project Structure
-
-
-
-📁 Burger Website Project
-├── index.html          # Main HTML file
-├── style.css           # AI-generated styling (optional)
-├── images/             # Folder for burger images
-└── README.md           # This file
-
-
-
 ## 🖼️ Preview
 
 > ![Screenshot](previews.png)
